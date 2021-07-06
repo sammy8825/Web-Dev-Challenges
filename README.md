@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://silly-boyd-7c2490.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/sammy8825/404-Not-Found-Challenge">
+    <a href="https://github.com/sammy8825/Web-Dev-Challenges/tree/404-Not-Found-Challenge">
       Solution
     </a>
     <span> | </span>
@@ -70,4 +70,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [sammy8825](https://{github.com/sammy8825})
+- GitHub [sammy8825](https://github.com/sammy8825})
